@@ -1,0 +1,2 @@
+Prefix plugins/SortSamples/example
+Plugin SortSamples inputfile parameters.txt outputfile ordered.csv
